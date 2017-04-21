@@ -1,2 +1,3 @@
 # hello-world
-hmmmmmmmm
+hmmmmmm
+this is some sample text friend~@!
